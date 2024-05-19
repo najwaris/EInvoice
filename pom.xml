@@ -13,7 +13,7 @@
 	<artifactId>demo-e-invoice</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>demo-e-invoice</name>
-	<description>Demo project for e-Invoice (MOABI)</description>
+	<description>Demo project for e-Invoice</description>
 	<properties>
 		<java.version>17</java.version>
 		<maven.compiler.source>17</maven.compiler.source>
