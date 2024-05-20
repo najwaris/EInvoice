@@ -29,8 +29,8 @@ public class EInvoiceServiceImpl {
     private EInvoiceSystemFeign eInvoiceSystemFeign;
 
     public String generateToken() {
-        String clientId = "76604d41-9d3b-4eaa-a9f0-a50cd4e5f3d5";
-        String clientSecret = "c9ef626f-a526-4195-aefe-6fdd863460f5";
+        String clientId = <YOUR_CLIENT_ID>;
+        String clientSecret = <YOUR_CLIENT_SECRET>;
         String grantType = "client_credentials";
         String scope = "InvoicingAPI";
 
